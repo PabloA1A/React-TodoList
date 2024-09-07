@@ -14,11 +14,14 @@ Created with React.
 
 ### To start the project:
 1- npm install
+
 2- npm run dev
 
 ### All the tests:
 npm install vitest --save-dev
+
 npm install --save-dev vitest @testing-library/react @testing-library/jest-dom
+
 npm install @vitest/coverage-v8 --save-dev
 
 ### AUTHOR:
