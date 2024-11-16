@@ -28,3 +28,5 @@ npm install @vitest/coverage-v8 --save-dev
 ```sh
 Pablo Abad
 ```
+
+npm install react-beautiful-dnd
