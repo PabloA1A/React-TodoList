@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de lista de tareas (TodoList) creada con React y Vite. Permite a los usuarios agregar, editar, eliminar y reorganizar tareas en una lista. Las tareas se guardan en el almacenamiento local del navegador para que persistan entre sesiones.
 
+![Todolist](Todolist.png)
+
 ## Estructura del Proyecto
 
 ```sh
